@@ -1,15 +1,14 @@
-<h2 align="left">Hi 👋! My name is Roberto and I'm a Front End Developer, from Unknown Company. Haha</h2>
+<h2 align="center">Hi 👋! My name is Roberto and I'm a Front End Developer, from Unknown Company. Haha</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://pa1.aminoapps.com/6374/1b9ee6f9dc16c0e2f1ca32cb65e200b7469390d2_hq.gif"  />
 
 ###
 
@@ -44,7 +43,7 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" />
 
 ###
 <!--

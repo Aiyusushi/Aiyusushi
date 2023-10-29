@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Roberto and I'm an Information System Student. Haha</h2>
+<h2 align="center">Hi 👋! My name is Roberto and I'm a Front End Developer and Graphic Designer from blablabla. Haha</h2>
 
 ###
 

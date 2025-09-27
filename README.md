@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Roberto and I'm a Front End Developer and Graphic Designer from blablabla. Haha</h2>
+<h2 align="center">Hi 👋! My name is Roberto and I'm a Skilled Developer and Graphic Designer from our School. Haha</h2>
 
 ###
 
